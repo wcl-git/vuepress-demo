@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.27"
+  },
+  "scripts": {
+    "dev": "vuepress dev  -p 5555",
+    "build": "vuepress build"
+  }
+}
